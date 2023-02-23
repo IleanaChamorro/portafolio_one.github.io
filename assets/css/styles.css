@@ -557,3 +557,33 @@ h3{
     border-color: rgba(255,255,255,.6);
   }
   
+/*Contact*/
+.fa-map-pin{
+    font-size: 35px;
+    padding: 15px;
+}
+.fa-inbox{
+    font-size: 25px;
+    padding: 15px;
+}
+.list-item{
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+}
+.list-item a{
+    color: white;
+    text-decoration: none;
+}
+.btn-contacto{
+    margin-top: 30px;
+    font-size: 17px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;   
+}
+#nodejs, #django{
+    margin-top: 7px;
+}
